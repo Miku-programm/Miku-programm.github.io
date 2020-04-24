@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "翻閱長城，走向世界!"
 sidebar-avatar:  img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "科學上網維基",
+        href: "https://mikuwedgfw.fandom.com/zh-tw/wiki/%E7%A7%91%E5%AD%B8%E4%B8%8A%E7%B6%B2%E7%B6%AD%E5%9F%BA_Wiki"
     },{
         title: "",
         href: ""
